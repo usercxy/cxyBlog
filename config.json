@@ -1,6 +1,16 @@
 {
-    "title":"Wind",
-    "subTitle":"生活原本沉闷，但跑起来就有风",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title": "Wind",
+    "subTitle": "生活原本沉闷，但跑起来就有风",
+    "avatarUrl": "https://usercxy.github.io/avatar.svg",
+    "startSite": "07/16/2024",
+    "onePageListNum": 15,
+    "yearColorList": [
+        "#e3e9ce",
+        "#aacca7",
+        "#8f9a79",
+        "#5ba585"
+    ],
+    "i18n": "CN",
+    "UTC": 8,
+    "GMEEK_VERSION": "last"
 }
